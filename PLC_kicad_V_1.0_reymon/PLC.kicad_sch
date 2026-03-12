@@ -1,0 +1,86 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "3e78205a-c5f6-4422-8d57-aad5ffe102ef")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 97.79 42.545)
+		(size 29.21 26.035)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 226 54 1.0000)
+		)
+		(uuid "4dd4f769-4be7-4650-9088-ced42a6012fa")
+		(property "Sheetname" "DIGITAL INPUT"
+			(at 97.79 41.8334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIGITAL INPUT.kicad_sch"
+			(at 97.79 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "IN" input
+			(at 97.79 48.26 180)
+			(uuid "28d569e1-bb35-4674-8974-84d953f10f4b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "COM" input
+			(at 97.79 59.69 180)
+			(uuid "9c43b197-a8d2-4f04-92d8-f65844927b7f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "in" output
+			(at 127 54.61 0)
+			(uuid "c3cb52e1-7d78-42b7-a630-302b9d0dc6e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "PLC"
+				(path "/3e78205a-c5f6-4422-8d57-aad5ffe102ef"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

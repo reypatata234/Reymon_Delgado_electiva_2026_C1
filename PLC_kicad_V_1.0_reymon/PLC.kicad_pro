@@ -625,6 +625,18 @@
     [
       "4dd4f769-4be7-4650-9088-ced42a6012fa",
       "DIGITAL INPUT"
+    ],
+    [
+      "8ac98f19-5e3b-4f53-a164-c5668775dda3",
+      "DIGITAL INPUT1"
+    ],
+    [
+      "d3097f74-1cd7-4b10-b7c7-ca6e2444e88a",
+      "DIGITAL INPUT2"
+    ],
+    [
+      "49d5fa75-65b7-4664-a84a-fc2f584796fa",
+      "DIGITAL INPUT3"
     ]
   ],
   "text_variables": {}
